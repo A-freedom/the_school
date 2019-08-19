@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 class Man {
 private:
     double speed = 0;
