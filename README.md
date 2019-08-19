@@ -14,9 +14,9 @@ the student have {
 name
 age
 Absorption ratio that change every day 
-the sum of Absorption += bsorption ratio
+the sum of Absorption += Absorption ratio
 }
-in the end of the year every student have to show su his sum of Absorption and you deside if he will pass of not..
+in the end of the year every student have to show su his sum of Absorption and we should deside if he will pass of not..
 for sure we as any other Iraqi school we will give our student a push as 5 point on the the average ..
-and the one who will get the bigest average we will give him a prize and shear his name on the web .. 
-good louck while you tring create this por.
+and the one who will get the bigest average we will give him a prize and share his name on the web .. 
+good louck while you tring create this pro.
